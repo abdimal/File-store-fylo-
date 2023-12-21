@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.righty li{
+    list-style-type: none;
+    display: inline-block;
+    font-size: 16px;
+    color: black;
+    margin-left: 100px;
+}
+.top{
+    margin-right: 600px;
+}
+.righty li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+.one{
+    display: flex;
+}
+.p-one{
+    margin-top: 100px;
+    max-width: 450px;
+    margin-left: 50px;
+}
+
+.inp{
+    display: flex;
+}
+.inp1 input{
+width: 250px;
+height: 30px;
+}
+.inp2 button{
+    margin-left: 20px;
+    background-color: rgb(0, 89, 255);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.side img{
+    width: 60%;
+    margin-left: 100px;
+}
+.two{
+    display: flex;
+}
+.three{
+    /* margin-left: 20px; */
+    background-color: aliceblue;
+}
+.three-one{
+    max-width: 500px;
+    margin-left: 20px;
+}
+.three-one li{
+    font-size: 20px;
+    list-style-type: none;
+}
+.three-one li a{
+    color:  rgb(0, 255, 0);
+}
+.kyle img{
+    border-radius: 50px;
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.three-two{
+    max-width: 400px;
+    background-color: white;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 5px;
+}
+.three-three{
+    display: flex;
+    
+}
+.ill-one{
+    width: 50%;
+}
+.ill-two img{
+    width: 100%;
+}
+.three{
+    display: flex;
+}
+.four{
+    background-color: rgb(113, 113, 248);
+    display: flex;
+}
+.four h1,p{
+    color:black;
+}
+.four-one{
+    max-width: 600px;
+}
+.four-two{
+    margin-top: 80px;
+}
+.four-two input{
+width: 600px;
+height: 40px;
+}
+.four-two button{
+    padding: 20px 100px;
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.five{
+    background-color: rgb(53, 53, 192);
+}
+
+.call {
+    display: flex;
+    align-items: center;
+}
+.call p{
+    color: white;
+}
+.call img {
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+.email{
+    display: flex;
+    align-items: center;
+    
+}
+.email p{
+    color: white;
+}
+.email img{
+    margin-right: 10px;
+}
+.five-two li{
+    list-style-type: none;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 5px;
+}
+.five-three li{
+    list-style-type: none;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 5px;
+}
+.five{
+    display: flex;
+    justify-content: space-around;
+}
